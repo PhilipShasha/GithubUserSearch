@@ -2,8 +2,8 @@
 Made in React.
 
 
-#To view:
-In the project directory, you can run:
+# To view:
+You can clone this repository, and run using:
 `npm start`
 
 Or, you can view the site [here.](https://philipshasha.github.io/GithubUserSearch/)
