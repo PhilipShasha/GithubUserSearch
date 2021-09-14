@@ -4,6 +4,7 @@ Made in React.
 
 # To view:
 You can clone this repository, and run using:
+`npm install` then
 `npm start`
 
 Or, you can view the site [here.](https://philipshasha.github.io/GithubUserSearch/)
